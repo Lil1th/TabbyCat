@@ -3,12 +3,15 @@ The best Tabby Cat hacks on the internet! Save yourself $10, a bunch of reloads,
 
 Here's what everything does:
 
+## Blair
+The first auto-updating permanent pets hack. Bypass Google Payments to get Chomusuke before I make it. Named after Blair from Soul Eater. **Once Chomusuke is made for any particular update, it will be better than the Blair version. Blair just gets you stuff first.**
+
 ## Chomusuke
 This is the original permanent pets hack, it is an unpacked extension using the improved format that bypasses Google Payments to get you pets for free. Named after Megumin's cat from KonoSuba.
 **Chomusuke will be updated as events warrant**
 
 ## Chomusuke Legendary
-See above, but with legendary cats on every reload instead of only ~8% of the time.
+See above, but with legendary cats on every reload instead of only 8~12% of the time.
 **Chomusuke Legendary will be updated as events warrant**
 
 ## Doki Doki Chomusuke Club
@@ -20,7 +23,7 @@ This could be considered an installer tool for Chomusuke. Originally it would si
 **Elizabeth III will be updated as events warrant**
 
 ## Ferris
-Custom fonts. Pretty straightforward. Named after best girl from Re:Zero. Fight me.
+Custom fonts. Pretty straightforward. Named after best girl from Re:Zero. Fite me.
 **Ferris will be updated on the off chance it ever needs an update. I doubt this will be the case.**
 
 ## FileNotFound and FileNotFound (Swift)
@@ -32,7 +35,7 @@ Swap between the various Tabby Cat mods made by TheSwiftPhantom and me. Named af
 **Ichigo will be updated as events warrant**
 
 ## Kaguya
-Change almost every colour in Tabby Cat to be whatever you want! This was one of the most difficult to make so I hope you like it. Named after Shinomiya Kaguya from Love is War. Because of that one cat ears scene.
+Change almost every colour or animation speed in Tabby Cat to be whatever you want! This was one of the most difficult to make so I hope you like it. Named after Shinomiya Kaguya from Love is War. Because of that one cat ears scene.
 **Kaguya will be ipdated on the off chance it ever needs an update. It will if Ferris does, but it's unlikely.**
 
 ## Komi
